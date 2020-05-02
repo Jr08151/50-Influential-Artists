@@ -245,11 +245,11 @@ header {
   justify-content: space-around;
   width: 15%;
   padding: 1%;
-  border: 1px border-color: dimgrey; border-style: solid;;
+  /* border: 1px border-color: dimgrey; border-style: solid;;
   border-radius: 3px;
   text-align: center;
   font-size: 1.2rem;
-  box-shadow: 0 0 5px #888;
+  box-shadow: 0 0 5px #888; */
 }
 @media (max-width: 500px) {
   .title-container .btn {
