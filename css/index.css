@@ -239,7 +239,8 @@ header {
     font-size: 2rem;
   }
 }
-.title-container .btn {
+/* .title-container .btn {
+
   background-color: white;
   display: flex;
   justify-content: space-around;
@@ -250,7 +251,7 @@ header {
   text-align: center;
   font-size: 1.2rem;
   box-shadow: 0 0 5px #888;
-}
+} */
 
 @media (max-width: 500px) {
   .title-container .btn {
