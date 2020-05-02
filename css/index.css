@@ -251,6 +251,7 @@ header {
   font-size: 1.2rem;
   box-shadow: 0 0 5px #888;
 }
+
 @media (max-width: 500px) {
   .title-container .btn {
     font-size: 1rem;
